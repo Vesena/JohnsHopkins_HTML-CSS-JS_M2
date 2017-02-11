@@ -1,0 +1,21 @@
+.navbar-brand h1 {
+  font-size: 1.6em;
+  margin: 0;
+}
+
+#collapsable-nav ul {
+  background-color: rgba(234, 221, 80, 0.43);
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.nav hr {
+  border-color: #cccccc;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.row div div{
+  background-color: #e0f9f8;
+  padding: 15px;
+}
